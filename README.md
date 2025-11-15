@@ -11,6 +11,10 @@ This project loads the Titanic dataset, preprocesses it, trains four classifiers
 - Random Forest
 - Naive Bayes
 
+ ## Related Certifications
+  - [Programming with Python 3.X – Simplilearn](certifications/Programming with Python 3.X certificate Simplilearn.pdf)
+  - [Introduction to Prompt Engineering – Simplilearn](certifications/Introduction to Prompt Engineering by simpli learn certificate.pdf)
+
 ##  Dataset
 Using `seaborn`'s built-in Titanic dataset.
 
@@ -18,7 +22,3 @@ Using `seaborn`'s built-in Titanic dataset.
 ```bash
 pip install -r requirements.txt
 python titanic_classifier.py
-
-## Related Certifications
-- [Programming with Python 3.X – Simplilearn](certifications/Programming with Python 3.X certificate Simplilearn.pdf)
-- [Introduction to Prompt Engineering – Simplilearn](certifications/Introduction to Prompt Engineering by simpli learn certificate.pdf)
